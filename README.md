@@ -6,29 +6,6 @@ Estrutura do arquivo
 
 Título da página: "Get Out"
 
-Cabeçalho principal (<h1>): Nome do filme
 
-Imagem (<img>): Poster do filme com legenda de fonte (<figcaption>)
-
-Informações principais do filme (<h2>):
-
-Ano de produção
-
-Diretor
-
-Duração
-
-Classificação indicativa
-
-Gênero
-
-País de origem
-
-Sinopse (<p>): Resumo da história do filme
-
-Link externo (<a>): Direciona para a página do filme no site AdoroCinema
-
-Tecnologias utilizadas
-
-HTML5 básico, sem o uso de CSS ou JavaScript. 
+Tecnologias utilizadas: HTML5 básico e estrutura básica para melhor leitura do conteúdo (sem utilização de CSS ou JavaScript).
 
